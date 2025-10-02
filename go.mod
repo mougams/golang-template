@@ -1,3 +1,3 @@
 module github.com/criteo/golang-template/main
 
-go 1.22
+go 1.25
